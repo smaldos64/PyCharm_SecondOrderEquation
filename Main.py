@@ -22,8 +22,6 @@ class MyNumbers:
 """
 
 if __name__ == '__main__':
-    #print(1 == 1)
-
     A_Coefficient = 0
     B_Coefficient = 0
     C_Coefficient = 0
